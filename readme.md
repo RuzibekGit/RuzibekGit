@@ -14,4 +14,4 @@ Currently, I am engaged in developing robust solutions and exploring innovative 
 
 <hr>
 
-My LeetCode profile: https://leetcode.com/u/ruzibekoff/
+You can find more about me at my <a href="https://leetcode.com/u/ruzibekoff/">LeetCode</a>
