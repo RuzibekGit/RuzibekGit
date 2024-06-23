@@ -11,3 +11,7 @@ My journey in IT began with creating games and scientific projects since high sc
 I very much enjoy learning new technologies and frameworks. 💡
 
 Currently, I am engaged in developing robust solutions and exploring innovative approaches to problem-solving.
+
+<hr>
+
+My LeetCode profile: https://leetcode.com/u/ruzibekoff/
