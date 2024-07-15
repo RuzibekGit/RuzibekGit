@@ -1,8 +1,8 @@
 
 
-Hello there! 👋
+## Hello there! 👋
 
-I am a backend developer with a strong focus on Python, complemented by a deep interest in JavaScript🧾 and C++. 
+I am a backend developer with a strong focus on Python, complemented by a deep interest in JavaScript🧾. 
 
 My current passion lies in data science and deep learning🖥️, and I thrive on developing web applications using Django.I very much enjoy automating tasks with Python. 🐍
 
