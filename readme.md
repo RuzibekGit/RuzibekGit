@@ -2,13 +2,10 @@
 
 ## Hello there! 👋
 
-I am a backend developer with a strong focus on Python, complemented by a deep interest in JavaScript🧾. 
+I am a backend developer with a strong focus on Python, complemented by a deep interest in GO <img style="height: 15px; width: 22px;" src="https://bartlomiejmika.com/img/2021/common/go-banner.png" alt="">. 
 
-My current passion lies in data science and deep learning🖥️, and I thrive on developing web applications using Django.I very much enjoy automating tasks with Python. 🐍
+My current passion lies in data science and deep learning🖥️, and I thrive on developing web applications using Django.I very much enjoy automating tasks with Python 🐍, learning new technologies and frameworks. 💡
 
-My journey in IT began with creating games and scientific projects since high school. This diverse IT experience has led me to understand that the IT world is way too huge to put yourself into one corner, so I hope I'll be able to touch all of those corners.
-
-I very much enjoy learning new technologies and frameworks. 💡
 
 Currently, I am engaged in developing robust solutions and exploring innovative approaches to problem-solving.
 
