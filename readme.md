@@ -11,7 +11,7 @@ Currently, I am engaged in developing robust solutions and exploring innovative 
 
 <hr>
 
-You can find more about me at my <a href="https://leetcode.com/u/ruzibekoff/" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo">LeetCode</span></a>
+You can find more about me at my <a href="https://www.linkedin.com/in/ruzibek/" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo">LinkedIn</span></a> and also my <a href="https://leetcode.com/u/ruzibekoff/" class="min-width-0 Link text-bold flex-auto wb-break-all"><span class="repo">LeetCode</span></a>
 
 
 
